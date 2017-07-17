@@ -1,2 +1,6 @@
 push
+<<<<<<< HEAD
 local2
+=======
+local dosomething
+>>>>>>> d68933927b1e99758146da78da19db673ab501a5
